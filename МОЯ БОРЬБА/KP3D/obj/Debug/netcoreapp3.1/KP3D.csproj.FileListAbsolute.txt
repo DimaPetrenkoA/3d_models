@@ -1,0 +1,114 @@
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\KP3D.exe
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\KP3D.deps.json
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\KP3D.runtimeconfig.json
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\KP3D.runtimeconfig.dev.json
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\KP3D.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\KP3D.pdb
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D.csprojAssemblyReference.cache
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D_MarkupCompile.cache
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D_MarkupCompile.lref
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D.g.resources
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D.AssemblyInfoInputs.cache
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D.AssemblyInfo.cs
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D.pdb
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\Ara3D.Math3D.Standard.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\KP3D.csproj.CopyComplete
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\Microsoft.Solver.Foundation.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.Toolkit.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\bin\Debug\netcoreapp3.1\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Lnk\Desktop\Hub\учеба\курсач 3D\KP3D\KP3D\obj\Debug\netcoreapp3.1\Buttons.baml
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\KP3D.exe
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\KP3D.deps.json
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\KP3D.runtimeconfig.json
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\KP3D.runtimeconfig.dev.json
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\KP3D.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\KP3D.pdb
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\Ara3D.Math3D.Standard.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.Toolkit.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\Microsoft.Solver.Foundation.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\bin\Debug\netcoreapp3.1\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D.csprojAssemblyReference.cache
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D_MarkupCompile.cache
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D_MarkupCompile.lref
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\Buttons.baml
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D.g.resources
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D.AssemblyInfoInputs.cache
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D.AssemblyInfo.cs
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D.csproj.CopyComplete
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D.dll
+C:\Users\dimap\OneDrive\Рабочий стол\KP3D-master\KP3D\obj\Debug\netcoreapp3.1\KP3D.pdb
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\KP3D.exe
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\KP3D.deps.json
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\KP3D.runtimeconfig.json
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\KP3D.runtimeconfig.dev.json
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\KP3D.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\KP3D.pdb
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\Ara3D.Math3D.Standard.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.AvalonDock.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\Xceed.Wpf.Toolkit.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\Microsoft.Solver.Foundation.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\bin\Debug\netcoreapp3.1\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D.csprojAssemblyReference.cache
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D_MarkupCompile.cache
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D_MarkupCompile.lref
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\Buttons.baml
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D.g.resources
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D.AssemblyInfoInputs.cache
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D.AssemblyInfo.cs
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D.csproj.CopyComplete
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D.dll
+C:\Users\dimap\OneDrive\Рабочий стол\МОЯ БОРЬБА\KP3D\obj\Debug\netcoreapp3.1\KP3D.pdb
